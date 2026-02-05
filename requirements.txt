@@ -1,1 +1,6 @@
 streamlit
+pdfplumber
+python-docx
+langdetect
+
+
